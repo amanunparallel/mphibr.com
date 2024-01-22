@@ -30,7 +30,7 @@ function createTextColorChangeAnimations(triggerConfigurations) {
           end: config.end,
           toggleActions: "play none none none",
           scrub: true,
-          // markers: true,
+          markers: true,
         },
       });
 
